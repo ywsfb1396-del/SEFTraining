@@ -1,3 +1,5 @@
-console.log("Hello Youssef")
+console.log("Hello Youssef");
 
-let ahmed = "Hello Ahmed"
+let ahmed = "Hello Ahmed";
+
+console.log("Ahmed");
